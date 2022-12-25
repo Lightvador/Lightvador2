@@ -1,5 +1,17 @@
-# Hello-world
-
-My first respository on Github
-
-I love :badminton: :cricket:, and :singer:.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/>
+<div id="badges">
+ <a herf="your-linkedin-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColour=white&style=for-the-badge" alt="LinkedIn Badge"/>
+ </a>
+ <a href="your-youtube-URL">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <a href="your-twitter-URL">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=Lightvador&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
