@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/>
 <div id="badges">
- <a herf="your-linkedin-URL">
+ <a herf="https://www.linkedin.com/in/swayam-jain-2b490a25b">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColour=white&style=for-the-badge" alt="LinkedIn Badge"/>
  </a>
  <a href="your-youtube-URL">
