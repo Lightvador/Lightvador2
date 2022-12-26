@@ -1,13 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="100"/>
 <div id="badges">
- <a herf="https://www.linkedin.com/in/swayam-jain-2b490a25b">
+ <a href="https://linkedin.com/in/swayam-jain-2b490a25b">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColour=white&style=for-the-badge" alt="LinkedIn Badge"/>
  </a>
- <a href="your-youtube-URL">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/>
- </a>
- <a href="your-twitter-URL">
+ <a href="https://twitter.com/SwayamJ63847840">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
 </div>
